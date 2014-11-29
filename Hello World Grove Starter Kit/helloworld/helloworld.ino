@@ -3,6 +3,20 @@
 *  Intel Iot RoadShow - SP
 *  Teste de sensores Grove StarterKit
 *  28/11/14
+*
+* Schematic - Base Shield
+* Buzzer             -> D6
+* Sound Sensor       -> A3
+* Potentiometer      -> A2
+* Touch Sensor       -> D2
+* Light Sensor       -> A1
+* Temperature Sensor -> A0
+* Relay              -> D5  
+* LED                -> D8
+* Servo              -> D3
+* Button             -> D4
+* LCD                -> I2C
+*
 */
 
 #include <Servo.h>
